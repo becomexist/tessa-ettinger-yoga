@@ -1,0 +1,11 @@
+section#contact {
+	@include row();
+}
+
+form#contact-form {
+	@include span-columns(6);
+}
+
+iframe.google-map {
+	@include span-columns(6);
+}

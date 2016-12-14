@@ -1,0 +1,82 @@
+body {
+	background: #FAFCF1;
+	background-image: url('https://www.transparenttextures.com/patterns/light-paper-fibers.png');
+}
+
+.image-circle {
+  border-radius: 50%;
+  max-height: 250px;
+  border: 3px dashed black;
+  display: inherit;
+  margin: auto;
+  margin-top: 40px;
+}
+
+.border1 {
+	border: 80px solid transparent;
+  border-image: url('/assets/images/borders/tessa-border-1.png') 38.6% round;
+  border-image-width: 140px;
+}
+
+
+// Header
+
+h1.brand {
+	font-family: 'Amatic SC';
+	text-align: center;
+	font-size: 5rem;
+	color: black;
+  margin: auto;
+  max-width: 420px;
+  margin-top: 42px;
+  margin-bottom: 42px;
+}
+
+.page-content, footer {
+	max-width: 960px;
+	margin: auto;
+}
+
+.main-menu {
+	padding-top: 21px;
+	text-align: justify;
+	width: 90%;
+	max-width: 960px;
+	margin: auto;
+	li {
+		display: inline-block;
+		text-transform: uppercase;
+		padding: 10px;
+		&.active {
+			// Active class
+		}
+		a {
+			// font-family: Neucha;
+			font-size: 1.5rem;
+			color: black;
+		}
+	}
+	&:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+	}
+}
+
+.yoga {
+	position: relative;
+	right: 5px;
+}
+
+// Footer
+
+footer {
+	@include row();
+	.footer-left {
+		@include span-columns(6);
+	}
+	.footer-right {
+		@include span-columns(6);
+		text-align: right;
+	}
+}

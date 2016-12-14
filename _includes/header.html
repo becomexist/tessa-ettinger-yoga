@@ -1,0 +1,19 @@
+<header>
+  <a href="/">
+	  <h1 class="brand">Tessa Ettinger<br>
+	    <span class="yoga">—— &nbsp;Yoga ——</span></h1>
+	</a>
+  <ul class="main-menu">
+	  {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
+	    {% for p in navigation_pages %}
+	      {% if p.navigation_weight %}
+	      	<li {% if p.url == page.url %}class="active hvr-float" {% else %}class="hvr-float" {% endif %}>
+	          <a href="{{ p.url }}">
+	            {{ p.title }}
+	          </a>
+	        </li>
+      {% endif %}
+    {% endfor %}
+    <li><a href="/contact.html"><img class="hvr-float" src="/assets/images/icons/mail-icon.png" width="40"/></a></li>
+	</ul>
+</header>

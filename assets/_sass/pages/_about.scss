@@ -1,0 +1,44 @@
+.yoga-dudes {
+	@include row();
+	.dude-column {
+		@include span-columns(4);
+		text-align: center;
+		&#tree-pose {
+			text-align: right;
+		}
+	}
+	.yoga-dude {
+		max-height: 300px;
+		width: auto; 
+	}
+}
+
+.intro-quote {
+	@include row();
+	margin-top: 0;
+	margin-left: 10px;
+	margin-right: 10px;
+	-webkit-margin-start: 10px;
+  -webkit-margin-end: 10px;
+	span.quote-source {
+		font-size: 1rem;
+	}
+}
+
+.intro-message {
+	@include row();
+	text-align: center;
+	border: 50px solid transparent;
+  border-image: url('/assets/images/borders/tessa-border-3.png') 42% round;
+  border-image-width: 73px;
+}
+.intro-columns {
+	@include row();
+	.home-intro-left {
+		@include span-columns(7);
+		text-align: center;
+	}
+	.home-intro-right {
+		@include span-columns(5);
+	}
+}

@@ -1,0 +1,13 @@
+.private-yoga {
+	@include row();
+	text-align: center;
+	p {
+		@include span-columns(8);
+		@include shift(2);
+		border: 50px solid transparent;
+	  border-image: url('/assets/images/borders/tessa-border-2.png') 42% round;
+	  border-image-width: 73px;
+	  background-color: white;
+	  border-radius: 50px;
+	}
+}
