@@ -1,0 +1,11 @@
+.dotted-border {
+	border: 50px solid transparent;
+  border-image: url('/assets/images/borders/tessa-border-3.png') 240 round;
+  border-image-width: 140px;
+}
+
+.leaf-border {
+	border: 80px solid transparent;
+  border-image: url('/assets/images/borders/tessa-border-1.png') 240 round;
+  border-image-width: 140px;
+}

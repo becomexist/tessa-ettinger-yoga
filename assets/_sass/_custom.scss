@@ -12,12 +12,6 @@ body {
   margin-top: 40px;
 }
 
-.border1 {
-	border: 80px solid transparent;
-  border-image: url('/assets/images/borders/tessa-border-1.png') 38.6% round;
-  border-image-width: 140px;
-}
-
 
 // Header
 
@@ -66,17 +60,4 @@ h1.brand {
 .yoga {
 	position: relative;
 	right: 5px;
-}
-
-// Footer
-
-footer {
-	@include row();
-	.footer-left {
-		@include span-columns(6);
-	}
-	.footer-right {
-		@include span-columns(6);
-		text-align: right;
-	}
 }
