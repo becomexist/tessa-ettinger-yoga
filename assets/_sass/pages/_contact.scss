@@ -3,7 +3,15 @@ section#contact {
 }
 
 form#contact-form {
-	@include span-columns(6);
+	@include span-columns(5);
+}
+
+iframe.google-map, #map {
+	@include shift(1);
+}
+
+#map {
+	@include span-columns(5);
 }
 
 iframe.google-map {

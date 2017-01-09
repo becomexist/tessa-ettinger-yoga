@@ -17,14 +17,23 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Lora;
+  font-family: 'Josefin Sans';
   font-size: $base-font-size;
-  font-weight: 700;
+  font-weight: 600;
   line-height: $heading-line-height;
   margin: 0 0 $small-spacing;
 }
 
-h1 { font-size: 2rem; }
+h1 {
+  font-family: 'Amatic SC';
+  font-size: 3rem;
+  font-weight: 700; 
+}
+
+h2 {
+  font-size: 1.6rem;
+  margin-bottom: 40px;
+}
 
 p {
   margin: 0 0 $small-spacing;

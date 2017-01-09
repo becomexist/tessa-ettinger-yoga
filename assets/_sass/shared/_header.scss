@@ -1,0 +1,45 @@
+h1.brand {
+	font-family: 'Amatic SC';
+	text-align: center;
+	font-size: 5rem;
+	color: black;
+  margin: auto;
+  max-width: 420px;
+  margin-top: 42px;
+  margin-bottom: 42px;
+}
+
+.yoga {
+	position: relative;
+	right: 5px;
+}
+
+.page-content, footer {
+	max-width: 960px;
+	margin: auto;
+}
+
+.main-menu {
+	padding-top: 21px;
+	text-align: justify;
+	width: 95%;
+	max-width: 960px;
+	margin: auto;
+	li {
+		display: inline-block;
+		text-transform: uppercase;
+		&.active {
+			border-bottom: 2px solid;
+		}
+		a {
+			// font-family: Neucha;
+			font-size: 1.5rem;
+			color: black;
+		}
+	}
+	&:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+	}
+}

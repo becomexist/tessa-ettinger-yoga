@@ -1,13 +1,50 @@
-.private-yoga {
+#private-yoga {
 	@include row();
-	text-align: center;
+	text-align: left;
+	#north-london, #how {
+		@include row();
+	}
+	h1, h2, p, div.amatic {
+		@include span-columns(8);
+		@include shift(2);
+	}
+	h1, h2, div.amatic {
+		text-align: center;
+	}
+	h1 {
+		margin-bottom: 0;
+		font-size: 4rem;
+		text-transform: uppercase;
+	}
+	.amatic {
+		font-family:'Amatic SC';
+		font-size: 3rem;
+	}
+	.yoga-dude {
+		@include span-columns(4);
+		@include shift(4);
+		position: relative;
+		bottom: 40px;
+	}
+}
+
+div.amatic {
+	margin: 0 auto;
+	line-height: 0.5;
+}
+
+#private-yoga-form {
+	@include row();
+	h2, p {
+		text-align: center;
+	}
 	p {
 		@include span-columns(8);
 		@include shift(2);
-		border: 50px solid transparent;
-	  border-image: url('/assets/images/borders/tessa-border-2.png') 42% round;
-	  border-image-width: 73px;
-	  background-color: white;
-	  border-radius: 50px;
+	}
+	form {
+		@include row();
+		@include span-columns(6);
+		@include shift(3);
 	}
 }

@@ -1,0 +1,29 @@
+h6 {
+	font-size: 2rem;
+	font-weight: 700;
+}
+
+.group-intro {
+	@include row();
+}
+
+#hand-to-toe {
+	@include span-columns(3);
+	@include shift(1);
+}
+
+.group-class-intro {
+	@include span-columns(6);
+	@include shift(1);
+}
+
+#group-schedule {
+	@include row();
+	h6 {
+		font-family: 'Lora';
+	}
+}
+
+table {
+	margin-bottom: 40px;
+}

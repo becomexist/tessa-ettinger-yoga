@@ -13,30 +13,23 @@
 	}
 }
 
-.intro-quote {
-	@include row();
+.jois-quote {
 	margin-top: 0;
 	margin-left: 10px;
 	margin-right: 10px;
 	-webkit-margin-start: 10px;
   -webkit-margin-end: 10px;
-	span.quote-source {
-		font-size: 1rem;
+  margin-bottom: 15px;
+}
+
+.about-columns {
+	@include row();
+	.tessa-profile {
+		@include span-columns(4);
 	}
-}
-
-.intro-message {
-	@include row();
-	text-align: center;
-}
-
-.intro-columns {
-	@include row();
-	.home-intro-left {
+	.about-tessa {
 		@include span-columns(7);
-		text-align: center;
-	}
-	.home-intro-right {
-		@include span-columns(5);
+		@include shift(1);
+		text-align: left;
 	}
 }

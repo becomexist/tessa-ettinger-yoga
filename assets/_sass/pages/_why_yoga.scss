@@ -1,0 +1,16 @@
+.lead-quote {
+	@include row();
+	padding: 20px;
+}
+
+p.quote-source {
+	font-size: 1rem;
+	font-family: Lora;
+	text-align: center;
+}
+
+.intro-message {
+	@include row();
+	text-align: center;
+	padding: 40px;
+}
