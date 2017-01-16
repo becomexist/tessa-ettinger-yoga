@@ -37,6 +37,7 @@ h1.brand {
 		@include media($medium) {
 			margin-left: 2vw;
 			margin-right: 2vw;
+			margin-bottom: 10px;
 		}
 		&.active {
 			border-bottom: 2px solid;
@@ -45,6 +46,12 @@ h1.brand {
 			// font-family: Neucha;
 			font-size: 1.5rem;
 			color: black;
+		}
+		a img {
+			@include media($medium) {
+				position: relative;
+				bottom: 10px;
+			}
 		}
 	}
 	&:after {
