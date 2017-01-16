@@ -2,18 +2,36 @@ section#contact {
 	@include row();
 }
 
-form#contact-form {
+#contact-page form {
 	@include span-columns(5);
+	@include media($mobile) {
+		@include span-columns(12);
+	}
 }
 
-iframe.google-map, #map {
-	@include shift(1);
-}
-
-#map {
-	@include span-columns(5);
-}
-
-iframe.google-map {
+#contact-page .map-container {
 	@include span-columns(6);
+	@include shift(1);
+	@include media($mobile) {
+		@include span-columns(12);
+		@include shift(0);
+		margin-top: 20px;
+	}
 }
+
+#get-in-touch {
+	@include media($mobile) {
+		display: none;
+	}
+}
+// iframe.google-map, #map {
+// 	@include shift(0);
+// }
+
+// #get-in-touch {
+// 	@include span-columns(5);
+// }
+
+// iframe.google-map {
+// 	@include span-columns(5);
+// }

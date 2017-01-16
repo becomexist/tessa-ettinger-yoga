@@ -13,4 +13,8 @@ p.quote-source {
 	@include row();
 	text-align: center;
 	padding: 40px;
+	@include media($mobile) {
+    padding: 0;
+    font-size: 6vw;
+  }
 }

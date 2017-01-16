@@ -7,6 +7,9 @@ h1.brand {
   max-width: 420px;
   margin-top: 42px;
   margin-bottom: 42px;
+  @include media($mobile) {
+    font-size: 3rem;
+  }
 }
 
 .yoga {

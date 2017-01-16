@@ -26,10 +26,20 @@
 	@include row();
 	.tessa-profile {
 		@include span-columns(4);
+		@include shift(-12);
+		@include media($mobile) {
+			@include span-columns(12);
+			@include shift(0);
+			margin-top: 20px;
+		}
 	}
 	.about-tessa {
 		@include span-columns(7);
-		@include shift(1);
+		@include shift(6);
 		text-align: left;
+		@include media($mobile) {
+			@include span-columns(12);
+			@include shift(0);
+		}
 	}
 }

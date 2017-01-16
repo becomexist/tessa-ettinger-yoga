@@ -9,12 +9,20 @@ h6 {
 
 #hand-to-toe {
 	@include span-columns(3);
-	@include shift(1);
+	@include shift(-10);
+	@include media($mobile) {
+		@include span-columns(6);
+		@include shift(3);
+	}
 }
 
 .group-class-intro {
 	@include span-columns(6);
-	@include shift(1);
+	@include shift(5);
+	@include media($mobile) {
+		@include span-columns(12);
+		@include shift(0);
+	}
 }
 
 #group-schedule {
@@ -26,4 +34,18 @@ h6 {
 
 table {
 	margin-bottom: 40px;
+}
+
+td {
+	@include media($mobile) {
+		font-size: 1rem;
+		padding: 10px;
+	}
+}
+
+td.hide-me {
+	@include media($mobile) {
+		position: relative;
+		top: 20px;
+	}
 }
