@@ -1,0 +1,21 @@
+#blog, .post-title {
+	text-align: center;
+}
+
+#posts-list {
+	@include row();
+	display: block;
+}
+
+.single-post {
+	@include row();
+}
+
+.post-header, .post-content {
+	@include span-columns(8);
+	@include shift(2);
+	@include media ($mobile) {
+		@include span-columns(12);
+		@include shift(0);
+	}
+}

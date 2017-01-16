@@ -2,6 +2,7 @@
 
 footer {
 	@include row();
+	display: block;
 	p {
 	@include span-columns(12);
 	text-align: center;

@@ -5,3 +5,16 @@ navigation_weight: 5
 slug: blog
 ---
 
+<section id=blog>
+	<div class="posts-list">
+		<h1>Blog</h1>
+		{% for post in site.posts %}
+			<div class="post">
+				<a href=".{{ post.url }}"><h4>{{ post.title }}</h4>
+				<p>{{ post.date | date: "%d %B %Y" }}</p>
+				<img src="{{ post.featured_image }}" alt="{{ post.featured_alt }}"></a>
+			</div>
+		{% endfor %}
+	<div class="posts-list">
+</section>
+
