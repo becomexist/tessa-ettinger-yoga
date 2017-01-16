@@ -21,6 +21,18 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: becomexist
 github_username:  becomexist
 
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    author: Tessa Ettinger
+    meta_content: 
+    featured_image: 
+    featured_alt: 
+    banner:
+
 # Build settings
 markdown: kramdown
 gems:

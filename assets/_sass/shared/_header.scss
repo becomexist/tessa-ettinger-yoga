@@ -28,9 +28,16 @@ h1.brand {
 	width: 95%;
 	max-width: 960px;
 	margin: auto;
+	@include media($medium) {
+		text-align: center;
+	}
 	li {
 		display: inline-block;
 		text-transform: uppercase;
+		@include media($medium) {
+			margin-left: 2vw;
+			margin-right: 2vw;
+		}
 		&.active {
 			border-bottom: 2px solid;
 		}

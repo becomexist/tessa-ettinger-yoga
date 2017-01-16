@@ -35,7 +35,7 @@
 	}
 	.about-tessa {
 		@include span-columns(7);
-		@include shift(6);
+		@include shift(5);
 		text-align: left;
 		@include media($mobile) {
 			@include span-columns(12);
