@@ -14,7 +14,7 @@ meta_content: The goal is to create space where you were once stuck. To unveil t
 
 > Come to your yoga mat to feel; not accomplish. Shift your focus and your heart will grow.
 
-**Rachel Brathen**
+> — ***Rachel Brathen***
 
 It is easy to get caught up with focusing on the physical postures when practicing yoga.  We are surrounded by a culture that equates certain aesthetic qualities and high-achievement with worth, and are bombarded by images and media portraying these messages daily.  It can feel quite intimidating in this age of social media to be surrounded by images of people perfectly executing difficult yoga postures.  The handstand in its various forms seems to have become the holy grail of pictures posted on various platforms by those who can.  The desire to master it, amongst other impressive looking yoga poses, can become almost obsessive in many of us yoga practitioners.  I am certainly not exempt from getting caught up in this mindset, however when success and attainment become the focus, the practice of yoga can become exhausting, shallow and even demoralising.  Progress in this way can feel slow or non-existent and injuries may occur as the body is pushed too far.  This is when our ego or mind is running the show and the body neglected, rather than felt and listened to.  It can take us away from ourselves and the potential that our yoga practice holds for us.
 
