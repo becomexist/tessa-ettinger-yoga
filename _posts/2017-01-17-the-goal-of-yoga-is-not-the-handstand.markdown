@@ -4,6 +4,8 @@ date: 2017-01-17 17:37:00 Z
 meta_content: The goal is to create space where you were once stuck. To unveil the
   layers of protection you've built around your heart. To appreciate your body and
   become aware of the mind and the noise it creates.
+featured_image: "/uploads/handstand_man.jpg"
+featured_alt: Man in suit doing a handstand
 ---
 
 > The Goal of Yoga (No, it's not the Handstand)
