@@ -19,3 +19,12 @@
 		@include shift(0);
 	}
 }
+
+h1.post-title {
+	font-family: Lora;
+}
+
+.post-content blockquote {
+	font-style: italic;
+	font-size: 1.2rem;
+}
