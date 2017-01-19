@@ -1,6 +1,12 @@
 body {
 	background: #FAFCF1;
+	max-width: 1200px;
+	margin: auto;
 	background-image: url('https://www.transparenttextures.com/patterns/light-paper-fibers.png');
+}
+
+.content {
+	margin: 10px;
 }
 
 .image-circle {

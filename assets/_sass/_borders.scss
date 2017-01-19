@@ -1,21 +1,22 @@
-.dotted-border {
-	border: 50px solid transparent;
-  border-image: url('/assets/images/borders/tessa-border-3.png') 240 round;
-  border-image-width: 140px;
+.pattern {
+  background-repeat: repeat-x;
+  background-size: contain;
+  max-width: 960px;
+  margin: auto;
 }
 
-.leaf-border {
-  border: 80px solid transparent;
-  border-image-source: url("/assets/images/borders/tessa-border-1.png");
-  border-image-slice: 50%;
-  border-image-width: 100%;
-  border-image-repeat: round;
+.leaf-pattern {
+  background-image: url('/assets/images/patterns/tessa-pattern-1.png');
+  height: 50px;
 }
 
-.wave-border {
-	border: 100px solid transparent;
-  border-image-source: url('/assets/images/borders/tessa-border-2.png');
-  border-image-slice: 43%;
-  border-image-width: 30%;
-  border-image-repeat: round;
+.dot-pattern {
+  background-image: url('/assets/images/patterns/tessa-pattern-2.png');
+  height: 10px;
+  @include row();
+}
+
+.small-pattern {
+  background-image: url('/assets/images/patterns/tessa-pattern-3.png');
+  height: 10px;
 }
