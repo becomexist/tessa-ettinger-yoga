@@ -6,12 +6,18 @@ layout: default
   <div class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     <img src="{{ site.baseurl }}{{ page.featured_image }}" alt="{{ page.featured_alt }}" />
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} — <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
+    {% unless page.categories contains "press" %}
+      {% if page.author %} — <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}
+    {% endunless %}
+    </p>
   </div>
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
-    <p>By {{ page.author }}</p>
+    {% unless page.categories contains "press" %}
+      <p>By {{ page.author }}</p>
+    {% endunless %}
   </div>
 
   {% if site.disqus.shortname %}
