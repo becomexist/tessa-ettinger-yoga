@@ -19,6 +19,9 @@ h1.brand {
 	right: 5px;
 	.logo-line {
 		letter-spacing: -10px;
+		@include media($mobile) {
+			letter-sapcing: -20px;
+		}
 	}
 }
 
