@@ -8,12 +8,18 @@
 .leaf-pattern {
   background-image: url('/assets/images/patterns/tessa-pattern-1.png');
   height: 50px;
+  @include media($mobile) {
+    height: 30px;
+  }
 }
 
 .dot-pattern {
   background-image: url('/assets/images/patterns/tessa-pattern-2.png');
   height: 10px;
   @include row();
+  @include media($mobile) {
+    height: 30px;
+  }
 }
 
 .small-pattern {
