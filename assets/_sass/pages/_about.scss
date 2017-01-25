@@ -38,8 +38,9 @@
 		@include shift(5);
 		text-align: left;
 		@include media($mobile) {
-			@include span-columns(12);
-			@include shift(0);
+			// @include span-columns(12);
+			// @include shift(0);
+			display: none;
 		}
 	}
 }
