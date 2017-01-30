@@ -53,6 +53,7 @@ The instructions were simple enough: lie backwards in the hammock with the fabri
 Then move your legs forwards towards you, going into a back flip so that you end up with your head facing the floor and your body is at a right angle. And then bring your knees in before pushing out and bringing your head and upper body up. Bingo. Full on bat stance.
 
 **George's experience of anti-gravity yoga**
+
 > Not being blessed with balance nor particularly great upper body strength, I was rather apprehensive about taking on anti-gravity yoga but couldn’t have enjoyed the experience more.
 
 > While I’m sure I was by no means graceful, every movement was doable and I found myself in positions I’m unlikely to ever be in again.
