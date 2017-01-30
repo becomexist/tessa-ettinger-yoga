@@ -3,7 +3,7 @@ title: 'Metro: We tried anti-gravity yoga and turns out we love to hang'
 date: 2017-01-30 10:12:00 Z
 ---
 
-This article originally appeared on Metro.co.uk on Tuesday 3 January 2017, and was written by Miranda Larbi. To read the article on the Metro website, please click here: [](http://metro.co.uk/2017/01/03/we-tried-anti-gravity-yoga-and-turns-out-we-love-to-hang-6355189/)
+This article originally appeared on Metro.co.uk on Tuesday 3 January 2017, and was written by Miranda Larbi. To read the article on the Metro website, please click here: [http://metro.co.uk/2017/01/03/we-tried-anti-gravity-yoga-and-turns-out-we-love-to-hang-6355189/](http://metro.co.uk/2017/01/03/we-tried-anti-gravity-yoga-and-turns-out-we-love-to-hang-6355189/)
 
 Sometimes trying to master even the simplest yoga move can feel like you’re attempting to defy gravity. If man was meant to balance on one leg with the other tucked under his crotch, surely we’d have been built like flamingos.
 
