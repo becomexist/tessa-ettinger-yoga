@@ -39,12 +39,17 @@ George was also pretty hungover so there was a real fear that at some point he�
 
 We started by just getting used to the hammock.
 
+![yoga-2.png](/uploads/yoga-2.png)
+
 At first, it feels flimsy but once you’re in, I reckon it’d be pretty hard to tumble out. We started by sitting in it, stretching out our quads before getting out and doing a series of chin-up type moves.
 
 I have no upper body strength; my main resolution for 2017 is to finally be able to master the monkey bar frames at my local park. As a result, I’ve literally never been able to do more than one chin-up in my life. But with the hammock? It was like I’d been body building for the past decade.
 
 I can’t explain why because it’s not stretchy, but the fabric seems to have a lot of give. When you jump up to grab the bits that hang from the ceiling, it’s far easier to pull yourself up and stay up than if you were trying to hold onto a poll or piece of metal.
+
 Next, we attempted backflips. Again, I’m no gymnast, and George is certainly not (sorry G), but I was backflipping like Simone Biles after five espressos. You simply have to wrap the hammock fabric around your hands three times, jump up and lean backwards. Your legs can catch onto the fabric hanging down from the ceiling and then you slowly bring yourself around.
+
+![yoga-11.png](/uploads/yoga-11.png)
 
 It’s incredible for core strength without actually feeling like you’re straining.
 
