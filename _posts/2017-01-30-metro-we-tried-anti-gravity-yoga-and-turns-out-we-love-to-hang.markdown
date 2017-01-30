@@ -3,7 +3,6 @@ title: 'Metro: We tried anti-gravity yoga and turns out we love to hang'
 date: 2017-01-30 10:12:00 Z
 categories:
 - press
-- blog
 author: Tessa Ettinger
 featured_image: "/uploads/gettyimages-163018888.jpg"
 featured_alt: 'Picture: Getty'
