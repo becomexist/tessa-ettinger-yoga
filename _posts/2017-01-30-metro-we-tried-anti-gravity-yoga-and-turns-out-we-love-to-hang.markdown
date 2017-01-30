@@ -3,6 +3,7 @@ title: 'Metro: We tried anti-gravity yoga and turns out we love to hang'
 date: 2017-01-30 10:12:00 Z
 featured_image: "/uploads/gettyimages-163018888.jpg"
 featured_alt: 'Picture: Getty'
+author: Tessa Ettinger
 ---
 
 This article originally appeared on Metro.co.uk on Tuesday 3 January 2017, and was written by Miranda Larbi. To read the article on the Metro website, please click here: [http://metro.co.uk/2017/01/03/we-tried-anti-gravity-yoga-and-turns-out-we-love-to-hang-6355189/](http://metro.co.uk/2017/01/03/we-tried-anti-gravity-yoga-and-turns-out-we-love-to-hang-6355189/)
