@@ -17,9 +17,6 @@
   background-image: url('/assets/images/patterns/tessa-pattern-2.png');
   height: 10px;
   @include row();
-  @include media($mobile) {
-    height: 30px;
-  }
 }
 
 .small-pattern {
