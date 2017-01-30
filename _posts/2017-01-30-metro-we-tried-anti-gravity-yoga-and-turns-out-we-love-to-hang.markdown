@@ -67,3 +67,5 @@ Aside from being very low pressure, lengthening the body (ideal if you’re hunc
 
 There is a moment for reflection at the end where the lights are turned off and you get to lie down for a bit while being gently swayed, but it’s not a particularly silent or reflective practise.
 I’ll definitely be heading back in training for tackling those blasted monkey bars once and for all.
+
+This article originally appeared on Metro.co.uk on Tuesday 3 January 2017, and was written by Miranda Larbi. To read the article on the Metro website, please click here: [http://metro.co.uk/2017/01/03/we-tried-anti-gravity-yoga-and-turns-out-we-love-to-hang-6355189/](http://metro.co.uk/2017/01/03/we-tried-anti-gravity-yoga-and-turns-out-we-love-to-hang-6355189/)
