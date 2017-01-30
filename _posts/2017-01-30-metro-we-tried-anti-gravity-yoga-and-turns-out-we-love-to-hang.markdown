@@ -52,7 +52,7 @@ But once you’ve managed a backflip, anything is possible.
 The instructions were simple enough: lie backwards in the hammock with the fabric covering your shoulders and feet. Stretch your arms out so that the backs of the hands are pushing against the hammock. 
 Then move your legs forwards towards you, going into a back flip so that you end up with your head facing the floor and your body is at a right angle. And then bring your knees in before pushing out and bringing your head and upper body up. Bingo. Full on bat stance.
 
-**George's experience of anti-gravity yoga**
+**George's experience of anti-gravity yoga:**
 
 > Not being blessed with balance nor particularly great upper body strength, I was rather apprehensive about taking on anti-gravity yoga but couldn’t have enjoyed the experience more.
 
