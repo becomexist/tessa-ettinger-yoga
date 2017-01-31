@@ -1,11 +1,11 @@
-# Frasco [![GitHub release](https://img.shields.io/github/release/ixkaito/frasco.svg)](https://github.com/ixkaito/frasco/releases) [![Build Status](https://travis-ci.org/ixkaito/frasco.svg?branch=master)](https://travis-ci.org/ixkaito/frasco) [![license](https://img.shields.io/github/license/ixkaito/frasco.svg?maxAge=2592000)](https://github.com/ixkaito/frasco/blob/master/LICENSE)
+# Tessa Ettinger Yoga
 
-__Jekyll starter project including full setup for gulp, Sass, Autoprefixer, Bourbon/Neat/Bitters, Browserify, imagemin, Browsersync, PostCSS etc.__
+Personal jekyll project for Tessa Ettinger Yoga hosted on GitHub Pages with Siteleaf CMS.
 
-## Documentation
+View the live site: http://www.privateyoganorthlondon.com
+
+__Created using the Frasco Jekyll starter project, including full setup for gulp, Sass, Autoprefixer, Bourbon/Neat/Bitters, Browserify, imagemin, Browsersync, PostCSS etc.__
+
+## Frasco Documentation
 
 https://ixkaito.github.io/frasco/
-
-## Copyright / License
-
-Copyright © 2015-2016 the contributors of the Frasco project under the [MIT License](https://github.com/ixkaito/frasco/blob/master/LICENSE).

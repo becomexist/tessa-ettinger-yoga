@@ -7,6 +7,15 @@
 	display: block;
 }
 
+.posts-list {
+	h1 {
+		@include media ($mobile) {
+			height: 20px;
+			opacity: 0;
+		}
+	}
+}
+
 .single-post {
 	@include row();
 }
