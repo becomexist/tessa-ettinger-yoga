@@ -24,7 +24,7 @@ The concept was apparently devised by Christopher Harrison of Cirque de Soleil w
 
 We went down to a class at Virgin Active to see if that was actually true.
 
-<iframe src="http://metro.co.uk/video/embed/1385571" title="Metro Embed Video Player" width="100%" height="auto" scrolling="no" frameborder="0" allowfullscreen></iframe>
+<iframe src="http://metro.co.uk/video/embed/1385571" title="Metro Embed Video Player" width="100%" height="100%" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
 To begin with, we watched our instructor demonstrate what anti-gravity yoga actually is. She started with a couple of basic-looking stretches before launching into something she called ‘The Vampire’.
 
