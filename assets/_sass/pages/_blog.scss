@@ -12,6 +12,7 @@
 		@include media ($mobile) {
 			height: 20px;
 			opacity: 0;
+			margin-bottom: 0;
 		}
 	}
 }
