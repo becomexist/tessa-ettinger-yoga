@@ -31,6 +31,10 @@
 
 h1.post-title {
 	font-family: Lora;
+	@include media ($mobile) {
+		font-size: 2rem;
+		margin-bottom: 40px;
+	}
 }
 
 .post-content blockquote {

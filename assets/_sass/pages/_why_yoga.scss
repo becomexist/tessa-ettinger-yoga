@@ -18,3 +18,7 @@ p.quote-source {
     font-size: 6vw;
   }
 }
+
+#reasons {
+	@include row();
+}

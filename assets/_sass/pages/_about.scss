@@ -13,6 +13,10 @@
 	}
 }
 
+.tessa-details {
+	@include row();
+}
+
 .jois-quote {
 	margin-top: 0;
 	margin-left: 10px;

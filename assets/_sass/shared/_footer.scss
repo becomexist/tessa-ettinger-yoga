@@ -1,6 +1,8 @@
 // Footer
 
 footer {
+	max-width: 960px;
+	margin: auto;
 	@include row();
 	display: block;
 	p {
