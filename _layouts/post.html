@@ -6,7 +6,7 @@ layout: default
   <div class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
 
-    <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-589360a2aed539b1"></script>
+    <!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_share_toolbox"></div>
 
     <img src="{{ site.baseurl }}{{ page.featured_image }}" alt="{{ page.featured_alt }}" />
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
@@ -22,7 +22,7 @@ layout: default
       <p>By {{ page.author }}</p>
     {% endunless %}
 
-    <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-589360a2aed539b1"></script> 
+    <!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_share_toolbox"></div> 
   </div>
 
   {% if site.disqus.shortname %}
