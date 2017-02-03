@@ -2,14 +2,14 @@ section#contact {
 	@include row();
 }
 
-#contact-page form {
+#contact-page {
 	@include span-columns(5);
 	@include media($mobile) {
 		@include span-columns(12);
 	}
 }
 
-#contact-page .map-container {
+.map-container {
 	@include span-columns(6);
 	@include shift(1);
 	@include media($mobile) {
@@ -24,14 +24,3 @@ section#contact {
 		display: none;
 	}
 }
-// iframe.google-map, #map {
-// 	@include shift(0);
-// }
-
-// #get-in-touch {
-// 	@include span-columns(5);
-// }
-
-// iframe.google-map {
-// 	@include span-columns(5);
-// }

@@ -8,8 +8,11 @@ body {
   }
 }
 
-.content {
-	margin: 10px;
+p, form, .post-title, #group-schedule {
+  @include media($mobile) {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
 }
 
 .image-circle {

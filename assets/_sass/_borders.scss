@@ -10,7 +10,7 @@
   height: 50px;
   margin-bottom: 40px;
   @include media($mobile) {
-    height: 30px;
+    height: 40px;
   }
 }
 
@@ -19,7 +19,48 @@
   height: 10px;
 }
 
+.cactus-pattern {
+  background-image: url('/assets/images/patterns/tessa-pattern-5.png');
+  height: 50px;
+  @include media($mobile) {
+    height: 40px;
+  }
+}
+
+.arabic-pattern {
+  background-image: url('/assets/images/patterns/tessa-pattern-8.png');
+  height: 50px;
+  @include media($mobile) {
+    height: 40px;
+  }
+}
+
+.zig-zag-pattern {
+  background-image: url('/assets/images/patterns/tessa-pattern-7.png');
+  height: 40px;
+  @include media($mobile) {
+    height: 40px;
+  }
+}
+
+.flower-pattern {
+  background-image: url('/assets/images/patterns/tessa-pattern-6.png');
+  height: 50px;
+  @include media($mobile) {
+    height: 40px;
+  }
+}
+
+
 .small-pattern {
   background-image: url('/assets/images/patterns/tessa-pattern-3.png');
   height: 10px;
+}
+
+.peacock-pattern {
+  background-image: url('/assets/images/patterns/tessa-pattern-4.png');
+  height: 50px;
+  @include media($mobile) {
+    height: 40px;
+  }
 }
