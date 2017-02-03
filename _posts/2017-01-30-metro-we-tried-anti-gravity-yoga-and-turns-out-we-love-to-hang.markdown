@@ -24,7 +24,7 @@ The concept was apparently devised by Christopher Harrison of Cirque de Soleil w
 
 We went down to a class at Virgin Active to see if that was actually true.
 
-<iframe src="http://metro.co.uk/video/embed/1385571" title="Metro Embed Video Player" width="698" height="573" scrolling="no" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mgQV3IqD9qw" frameborder="0" allowfullscreen></iframe>
 
 To begin with, we watched our instructor demonstrate what anti-gravity yoga actually is. She started with a couple of basic-looking stretches before launching into something she called ‘The Vampire’.
 
@@ -71,9 +71,12 @@ Then move your legs forwards towards you, going into a back flip so that you end
 > Not being blessed with balance nor particularly great upper body strength, I was rather apprehensive about taking on anti-gravity yoga but couldn’t have enjoyed the experience more.
 
 > While I’m sure I was by no means graceful, every movement was doable and I found myself in positions I’m unlikely to ever be in again.
-My aching body over the following few days was a good indication that it was a decent workout but it wasn’t so hard that it was unachievable.
+
+> My aching body over the following few days was a good indication that it was a decent workout but it wasn’t so hard that it was unachievable.
 
 > I would certainly recommend giving it a go and should the opportunity arise again, I would happily have another crack at it.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QccQPe8uHNU" frameborder="0" allowfullscreen></iframe>
 
 You leave the class feeling taller, stronger and like you’ve really done something impressive. If only clubs and pubs had these hammocks, you think. What a party piece!
 
