@@ -1,11 +1,15 @@
 header {
 	margin-bottom: 60px;
 	.logo {
-		max-width: 420px;
+		max-width: 320px;
 		margin: auto;
 		display: block;
+		margin-top: 40px;
+		margin-bottom: 40px;
 		@include media($medium) {
-			width: 70vw;
+			width: 60vw;
+			margin-top: 20px;
+			margin-bottom: 20px;
 		}
 	}
 }
