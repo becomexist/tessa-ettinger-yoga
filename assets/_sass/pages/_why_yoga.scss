@@ -21,4 +21,12 @@ p.quote-source {
 
 #reasons {
 	@include row();
+	.narrow-columns {
+		@include span-columns(8);
+		@include shift(2);
+		@include media($mobile) {
+			@include span-columns(12);
+			@include shift(0);
+		}
+	}
 }

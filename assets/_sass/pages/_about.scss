@@ -13,8 +13,17 @@
 	}
 }
 
-.tessa-details {
+.details-container {
 	@include row();
+}
+
+.tessa-details {
+	@include span-columns(7);
+	@include shift(5);
+	@include media($medium) {
+		@include span-columns(12);
+		@include shift(0);
+	}
 }
 
 .jois-quote {
@@ -31,7 +40,7 @@
 	.tessa-profile {
 		@include span-columns(4);
 		@include shift(-12);
-		@include media($mobile) {
+		@include media($medium) {
 			@include span-columns(12);
 			@include shift(0);
 			margin-top: 20px;
@@ -44,10 +53,9 @@
 		@include span-columns(7);
 		@include shift(5);
 		text-align: left;
-		@include media($mobile) {
-			// @include span-columns(12);
-			// @include shift(0);
-			display: none;
+		@include media($medium) {
+			@include span-columns(12);
+			@include shift(0);
 		}
 	}
 }
