@@ -1,5 +1,13 @@
 header {
 	margin-bottom: 60px;
+	.logo {
+		max-width: 420px;
+		margin: auto;
+		display: block;
+		@include media($medium) {
+			width: 70vw;
+		}
+	}
 }
 
 h1.brand {

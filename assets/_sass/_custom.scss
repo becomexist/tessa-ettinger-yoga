@@ -9,7 +9,7 @@ body {
 }
 
 p, form, .post-title, #group-schedule {
-  @include media($mobile) {
+  @include media($medium) {
     padding-left: 15px;
     padding-right: 15px;
   }
