@@ -196,6 +196,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
+  jekyll-seo-tag (~> 2.1)
 
 RUBY VERSION
    ruby 2.3.1p112
