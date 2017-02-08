@@ -4,7 +4,7 @@ date: 2017-01-30 10:12:00 Z
 categories:
 - press
 author: Tessa Ettinger
-featured_image: "/uploads/gettyimages-163018888.jpg"
+featured_image: "/uploads/yoga-2.png"
 featured_alt: 'Picture: Getty'
 ---
 
