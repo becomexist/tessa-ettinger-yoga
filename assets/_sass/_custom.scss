@@ -8,6 +8,11 @@ body {
   }
 }
 
+a.internal-button {
+  @include span-columns(2);
+  @include shift(4);
+}
+
 h1, h2, h3, h4, h5, h6, p, form, .post-title, #group-schedule {
   @include media($medium) {
     padding-left: 15px;
