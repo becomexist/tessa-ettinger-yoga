@@ -1,6 +1,12 @@
 #private-yoga {
 	@include row();
 	text-align: left;
+	.line {
+		display: block;
+		@include span-columns(2);
+		@include shift(5);
+		height: 3px;
+	}
 	#north-london, #how {
 		@include row();
 	}

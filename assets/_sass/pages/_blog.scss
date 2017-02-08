@@ -32,8 +32,8 @@
 
 h1.post-title {
 	font-family: Lora;
+	font-size: 2rem;
 	@include media ($mobile) {
-		font-size: 2rem;
 		margin-bottom: 40px;
 	}
 }
