@@ -8,9 +8,23 @@ body {
   }
 }
 
+#private-yoga-button {
+  @include row();
+}
+
 a.internal-button {
-  @include span-columns(2);
-  @include shift(4);
+  @include columns(12);
+  button {
+    width: 160px;
+    margin: auto;
+    display: block;
+  }
+  // @include media($medium) {
+  //   @include shift(5);
+  // }
+  // @include media($mobile) {
+  //   @include shift(3);
+  // }
 }
 
 h1, h2, h3, h4, h5, h6, p, form, .post-title, #group-schedule {
