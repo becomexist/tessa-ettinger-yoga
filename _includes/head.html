@@ -40,8 +40,8 @@
     <meta property="og:title" content="{{ page.title }}">
   {% endif %}
 
-  {% if page.layout != post %}
+  {% unless page.layout == post %}
     <meta property="og:url" content="https://privateyoganorthlondon.com/{{ page.slug }}" />
-  {% endif %}
+  {% endunless %}
 
 </head>
