@@ -29,4 +29,10 @@
     <meta property="og:image" content="https://privateyoganorthlondon.com/assets/images/og-image.jpg">
   {% endif %}
 
+  {% if page.og_title %}
+    <meta property="og:title" content="{{ page.og_title }}">
+  {% else %}
+    <meta property="og:title" content="{{ page.title }}">
+  {% endif %}
+
 </head>
