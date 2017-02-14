@@ -9,7 +9,7 @@
   <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/favicon.ico" />
 
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="canonical" href="https://privateyoganorthlondon.com/{{ page.slug }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -22,6 +22,11 @@
   {% endif %}
 
   <meta name="description" content="{{ page.meta_content }}">
+
+
+  {% if page.meta_content %}
+    <meta property="og:description" content="{{ page.meta_content }}">
+  {% endif %}
 
   {% if page.featured_image %}
     <meta property="og:image" content="{{ site.baseurl }}/{{ page.featured_image }}">
