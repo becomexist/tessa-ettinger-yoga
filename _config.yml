@@ -18,6 +18,7 @@ defaults:
     meta_content: 
     featured_image: 
     featured_alt: 
+permalink: pretty
 email: info@oat-bot.com
 description: Personal website for Tessa Ettinger.
 baseurl: ''
