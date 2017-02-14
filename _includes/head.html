@@ -23,8 +23,8 @@
 
   <meta name="description" content="{{ page.meta_content }}">
 
-  {% if featured_image == yes %}
-    <meta property="og:image" content="{{ site.baseurl }}{{ page.featured_image }}">
+  {% if page.featured_image %}
+    <meta property="og:image" content="{{ site.baseurl }}/{{ page.featured_image }}">
   {% else %}
     <meta property="og:image" content="https://privateyoganorthlondon.com/assets/images/square-tessa.jpg">
   {% endif %}
