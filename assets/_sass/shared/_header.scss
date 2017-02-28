@@ -68,7 +68,7 @@ h1.brand {
 		a {
 			// font-family: Neucha;
 			font-size: 1.5rem;
-			color: black;
+			color: #333333;
 			@include media($mobile) {
 		    font-size: 1.2rem;
 		  }
