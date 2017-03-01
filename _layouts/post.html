@@ -8,7 +8,11 @@ layout: default
 
     <!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_share_toolbox"></div>
 
-    <img src="{{ site.baseurl }}{{ page.featured_image }}" alt="{{ page.featured_alt }}" />
+    {% if page.featured_video %}
+      {% page.featured_video %}
+    {% else %}
+      <img src="{{ site.baseurl }}{{ page.featured_image }}" alt="{{ page.featured_alt }}" />
+    {% endif %}
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
     {% unless page.categories contains "press" %}
       {% if page.author %} — <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}
