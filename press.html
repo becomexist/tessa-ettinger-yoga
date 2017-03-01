@@ -10,8 +10,13 @@ meta_content: Tessa Ettinger's features in the press
 	{% if post.categories contains "press" %}
 		<div class="post">
 			<a href="{{ post.url }}"><h4>{{ post.title }}</h4>
-			<p>{{ post.date | date: "%d %B %Y" }}</p>
-			<img src="{{ post.featured_image }}" alt="{{ post.featured_alt }}"></a>
+				<p>{{ post.date | date: "%d %B %Y" }}</p>
+				{% if page.featured_video %}
+		      {{ page.featured_video }}
+		    {% else %}
+		      <img src="{{ site.baseurl }}{{ page.featured_image }}" alt="{{ page.featured_alt }}" />
+		    {% endif %}
+			</a>
 		</div>
 	{% endif %}
 {% endfor %}
