@@ -8,9 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  why-yoga:
-    title: Why Yoga?
-    output: true
 defaults:
 - scope:
     path: ''
