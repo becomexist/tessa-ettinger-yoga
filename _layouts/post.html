@@ -11,7 +11,7 @@ layout: default
     {% if page.featured_video %}
       {{ page.featured_video }}
     {% else %}
-      <img src="/{{ page.featured_image }}" alt="{{ page.featured_alt }}" />
+      <img src="{{ site.baseurl }}{{ page.featured_image }}" alt="{{ page.featured_alt }}" />
     {% endif %}
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
     {% unless page.categories contains "press" %}
