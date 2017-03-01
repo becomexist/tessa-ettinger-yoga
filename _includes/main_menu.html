@@ -1,13 +1,13 @@
-<ul class="main-menu">
+<ul class="main-menu" id="page">
   {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
     {% for p in navigation_pages %}
       {% if p.navigation_weight %}
-      	<li class="hvr-float {% if p.url == page.url %}active{% endif %}">
+      	<li id="{{ p.slug }}" class="menu-item hvr-float {% if p.url == page.url %}active{% endif %}">
           <a href="{{ site.baseurl }}/{{ p.slug }}">
             {{ p.title }}
           </a>
         </li>
-    {% endif %}
+      {% endif %}
   {% endfor %}
   <li><a href="{{ site.baseurl }}/contact"><img class="hvr-pop" src="{{ site.baseurl }}/assets/images/icons/mail-icon.png" width="40"/></a></li>
 </ul>
