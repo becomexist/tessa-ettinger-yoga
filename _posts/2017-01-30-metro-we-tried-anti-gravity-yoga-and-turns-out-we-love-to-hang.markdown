@@ -5,8 +5,6 @@ categories:
 - press
 author: Tessa Ettinger
 featured_image: "/uploads/yoga-2.png"
-featured_video: <iframe width="560" height="315" src="https://www.youtube.com/embed/mgQV3IqD9qw"
-  frameborder="0" allowfullscreen></iframe>
 featured_alt: 'Picture: Getty'
 ---
 
