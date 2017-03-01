@@ -1,19 +1,25 @@
 ---
 title: About
+main_heading: About Tessa
+intro_paragraph: Tessa is a North Londoner and has been practicing yoga for many years.
+  She has become particularly drawn to Ashtanga yoga and has learnt to adapt this
+  dynamic practice depending on her emotional and physical condition.  She approaches
+  it in a non-traditional way, so that it can be tailored to her changing needs and
+  be nurturing while remaining challenging.  She is passionate about using this approach
+  to assist others in finding or deepening their personal yoga practice and approach.
 og_title: About — Tessa Ettinger
 navigation_weight: 1
 slug: about
 meta_content: Tessa is a North Londoner and has been practicing yoga for many years.
   She has become particularly drawn to Ashtanga yoga and has learnt to adapt this
   dynamic practice depending on her emotional and physical condition.
-main_heading: About Tessa
 layout: default
 ---
 
 <div class="about-columns">
 	<div class="about-tessa">
 		<h1>{{ page.main_heading }}</h1>
-		<p>Tessa is a North Londoner and has been practicing yoga for many years. She has become particularly drawn to Ashtanga yoga and has learnt to adapt this dynamic practice depending on her emotional and physical condition.  She approaches it in a non-traditional way, so that it can be tailored to her changing needs and be nurturing while remaining challenging.  She is passionate about using this approach to assist others in finding or deepening their personal yoga practice and approach.</p>
+		<p>{{ page.intro_paragraph }}</p>
 	</div>
 
 	<div class="tessa-profile">
