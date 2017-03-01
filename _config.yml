@@ -16,7 +16,7 @@ defaults:
     layout: post
     author: Tessa Ettinger
     meta_content: 
-    featured_image:
+    featured_image: 
     featured_video: 
     featured_alt: 
 permalink: pretty
