@@ -19,3 +19,4 @@ meta_content: Tessa is a North Londoner and has been practicing yoga for many ye
   dynamic practice depending on her emotional and physical condition.
 layout: about
 ---
+
