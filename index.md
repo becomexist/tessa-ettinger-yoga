@@ -18,3 +18,4 @@ slug:
 layout: why_yoga
 ---
 
+<!-- do not add any text to this box directly, use the fields below instead -->
