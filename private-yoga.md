@@ -1,10 +1,16 @@
 ---
 title: Private Yoga
 og_title: Private Yoga — North London
-layout: default
 navigation_weight: 2
 slug: private-yoga
 meta_content: Private Yoga Lessons in North London with Tessa Ettinger
+north_london_text: |-
+  Private Yoga lessons are a great way to get individualised yoga tuition to meet your unique needs as different cues, modifications and movements are often required for different body types and conditions.
+
+  Group classes can sometimes feel overwhelming or underwhelming depending on where you’re at. One to one yoga sessions can help you overcome barriers to either enter the world of yoga or deepen your current practice.
+
+  They are also helpful to give personalised adjustments for correct and safe alignment that often aren’t possible in a busy class, especially if you are dealing with an injury. For those who have hectic or irregular schedules it can be hard to find a timetabled class that suits, in which case private lessons can be the perfect solution.
+layout: default
 ---
 
 <div id="private-yoga-page">
@@ -15,7 +21,7 @@ meta_content: Private Yoga Lessons in North London with Tessa Ettinger
 	<img id="meditation" class="yoga-dude" src="{{ site.baseurl }}/assets/images/yoga_dudes/meditation.png" width="100px" />
 
 	<div id="north-london">
-		{{ page.north_london }}
+		{{ page.north_london_text | markdownify }}
 	</div>
 
 	<div id="how">
