@@ -2,7 +2,7 @@
 title: Why Yoga?
 quote: "“Yoga is possible for anybody”."
 quote_source: Pattabhi Jois, Yogi, Guru, developer of the Ashtanga system of Yoga
-large_text: It doesn’t matter if you’re big or little, stiff or flexible, injured,
+intro_message: It doesn’t matter if you’re big or little, stiff or flexible, injured,
   healthy, old, young, happy, sad, blue, green, square, hexagonal… Yoga can still
   be possible for you.
 main_text: |-
