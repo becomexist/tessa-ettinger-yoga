@@ -2,7 +2,10 @@
 layout: default
 ---
 
-{% include lead_quote.html %}
+<div class="lead-quote">
+	<blockquote class="jois-quote"><em>{{ page.quote }}</em></blockquote>
+	<p class="quote-source">— {{ page.quote_source }}</p>
+</div>
 
 <div class="yoga-dudes">
 	<div class="dude-column" id="tree-pose">
