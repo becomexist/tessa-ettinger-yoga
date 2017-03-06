@@ -17,25 +17,5 @@ slug: about
 meta_content: Tessa is a North Londoner and has been practicing yoga for many years.
   She has become particularly drawn to Ashtanga yoga and has learnt to adapt this
   dynamic practice depending on her emotional and physical condition.
-layout: default
+layout: about
 ---
-
-<div class="about-columns">
-	<div class="about-tessa">
-		<h1>{{ page.main_heading }}</h1>
-		{{ page.intro_text || markdownify }}
-	</div>
-
-	<div class="tessa-profile">
-		<img class="image-circle" src="{{ site.baseurl }}/assets/images/square-tessa.jpg" />
-	</div>
-</div>
-
-<div class="details-container">
-	<div class="tessa-details">{{ page.secondary_text || markdownify }} </div>
-
-	{% include private_yoga_button.html %}
-	
-</div>
-
-{% include flower_pattern.html %}
