@@ -8,3 +8,4 @@ meta_content: It doesn’t matter if you’re big or little, stiff or flexible, 
   healthy, old, young, happy, sad, blue, green, square, hexagonal… Yoga can still
   be possible for you.
 ---
+
