@@ -7,11 +7,11 @@ main_text: |-
 
   All of this and more is possible through yoga, depending on the unique set of traits and circumstances that you bring. There is no right or wrong. Private Yoga lessons are a great way to get individualised yoga tuition to meet your unique needs.
 seo_title: Private Yoga North London
-navigation_weight: 3
-slug: 
 meta_content: It doesn’t matter if you’re big or little, stiff or flexible, injured,
   healthy, old, young, happy, sad, blue, green, square, hexagonal… Yoga can still
   be possible for you.
+navigation_weight: 3
+slug: 
 layout: why_yoga
 ---
 
