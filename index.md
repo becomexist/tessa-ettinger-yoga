@@ -1,5 +1,7 @@
 ---
 title: Why Yoga?
+quote: "“Yoga is possible for anybody”."
+quote_source: Pattabhi Jois, Yogi, Guru, developer of the Ashtanga system of Yoga
 main_text: |-
   There are a myriad reasons why you may want yoga to be possible for you. The list is endless and very personal to each practitioner. Yoga can help increase fitness, strength, flexibility, agility and maintain the health of your body. It can assist with injury rehabilitation. It can provide a sense of calm and nurturing whilst offering a different way of connecting with and learning about your body and yourself. It can also help build confidence and self-esteem as the various postures become more within reach. Through practicing yoga, the seemingly impossible may become possible, or some other lesson may be learnt instead.
 
