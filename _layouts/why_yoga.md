@@ -19,7 +19,7 @@ layout: default
 	</div>
 </div>
 
-<blockquote class="intro-message"> It doesn’t matter if you’re big or little, stiff or flexible, injured, healthy, old, young, happy, sad, blue, green, square, hexagonal… Yoga can still be possible for you. </blockquote>
+<blockquote class="intro-message"> {{ page.intro_message }} </blockquote>
 
 {% include dot_pattern.html %}
 
