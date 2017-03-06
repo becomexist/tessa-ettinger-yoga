@@ -23,3 +23,4 @@ slug: private-yoga
 meta_content: Private Yoga Lessons in North London with Tessa Ettinger
 layout: private_yoga
 ---
+
