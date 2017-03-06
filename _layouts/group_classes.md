@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <div class="group-intro">
   <div class="group-class-intro">
     {{ page.intro_text | markdownify }}
