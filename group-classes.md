@@ -13,3 +13,4 @@ meta_content: As well as private yoga, Tessa also teaches public yoga and AntiGr
 layout: group_classes
 ---
 
+<!-- do not add any text to this box directly, use the fields below instead -->
