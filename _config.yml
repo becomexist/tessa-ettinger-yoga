@@ -22,13 +22,13 @@ defaults:
 permalink: pretty
 email: info@oat-bot.com
 description: Personal website for Tessa Ettinger.
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: becomexist
 github_username: becomexist
 markdown: kramdown
 gems:
-- jekyll-feed
+- jekyll-sitemap
 sass:
   sass_dir: _sass
 exclude:
