@@ -24,8 +24,8 @@ email: info@oat-bot.com
 description: Personal website for Tessa Ettinger.
 baseurl: 
 url: 
-twitter_username: becomexist
-github_username: becomexist
+twitter_username: dino_k_29
+github_username: dino-k-29
 markdown: kramdown
 gems:
 - jekyll-sitemap
