@@ -1,0 +1,43 @@
+---
+title: Tessa Ettinger Yoga
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    author: Tessa Ettinger
+    meta_content: 
+    featured_image: 
+    featured_video: 
+    featured_alt: 
+permalink: pretty
+email: info@oat-bot.com
+description: Personal website for Tessa Ettinger.
+baseurl: 
+url: 
+twitter_username: dino_k_29
+github_username: dino-k-29
+markdown: kramdown
+gems:
+- jekyll-sitemap
+sass:
+  sass_dir: _sass
+exclude:
+- Gemfile
+- Gemfile.lock
+- frasco.config.js
+- gulpfile.js
+- LICENSE
+- node_modules
+- npm-debug.log
+- package.json
+- README.md
