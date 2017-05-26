@@ -37,6 +37,9 @@
 
 .about-columns {
 	@include row();
+	&::after {
+		content: none;
+	}
 	.tessa-profile {
 		@include span-columns(4);
 		@include shift(-12);
