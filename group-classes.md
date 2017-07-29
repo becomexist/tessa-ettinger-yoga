@@ -1,7 +1,7 @@
 ---
 title: Group Classes
 intro_text: |-
-  As well as private yoga, Tessa also teaches public yoga and AntiGravity yoga classes in various Virgin Active gyms around London on the schedule below.
+  As well as private yoga, Tessa also teaches public yoga and AntiGravity yoga classes in various Virgin Active gyms around London.
 
   To attend these classes, a Virgin Active membership is required.  If you are interested in joining, please contact the relevant club and you may be able to join a class on a trial basis.
 
@@ -9,7 +9,8 @@ intro_text: |-
 navigation_weight: 4
 slug: group-classes
 meta_content: As well as private yoga, Tessa also teaches public yoga and AntiGravity
-  yoga classes in various Virgin Active gyms around London.
+  yoga classes in various Virgin Active gyms around London.  Public class schedule
+  detailed below.
 layout: group_classes
 ---
 
