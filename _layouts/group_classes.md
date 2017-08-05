@@ -80,11 +80,6 @@ layout: default
       <td>Antigravity Yoga</td>
       <td><a href="https://www.virginactive.co.uk/clubs/Kensington" target="_blank">Virgin Active Kensington</a></td>
     </tr>
-    <tr>
-      <td>6.30 — 7.30pm</td>
-      <td>Antigravity Yoga</td>
-      <td><a href="https://www.virginactive.co.uk/clubs/bank" target="_blank">Virgin Active Bank</a></td>
-    </tr>
   </table>
   
   <table id="friday-schedule">
