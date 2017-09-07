@@ -11,11 +11,11 @@ secondary_text: "She has experience teaching in a variety of settings including 
   yoga classes in various Virgin Active gyms around London, where she additionally
   teaches AntiGravity Yoga, a form of aerial yoga and fitness. \n\nShe is also in
   the final year of a counselling training which together with her yoga practice,
-  has brought greater recognition of the mental, along with the physical, benefits
-  of yoga.  She has discovered that increasing awareness in our bodies responses can
+  has brought greater recognition of the mental, along with physical, benefits of
+  yoga.  She has discovered that increasing awareness in our bodies responses can
   help bring us back to our authentic connection with ourselves.  She is therefore
-  mindful of the potential for various emotions to arise through yoga and is able
-  to hold these in a nurturing and therapeutic way."
+  mindful of the potential for various emotions to arise through yoga practice and
+  is able to hold these in a nurturing and therapeutic way."
 og_title: About — Tessa Ettinger
 navigation_weight: 1
 slug: about
