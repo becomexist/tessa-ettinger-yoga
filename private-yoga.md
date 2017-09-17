@@ -19,7 +19,7 @@ secondary_text: "## How Does it Work?\n\t\nBefore you commit, you can have an in
 og_title: Private Yoga — North London
 navigation_weight: 2
 slug: private-yoga
-meta_content: Private Yoga Lessons in North London with Tessa Ettinger
+meta_content: Private Yoga Lessons in Crouch End, North London with Tessa Ettinger
 layout: private_yoga
 ---
 
