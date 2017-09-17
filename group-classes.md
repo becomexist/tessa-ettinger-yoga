@@ -8,9 +8,8 @@ intro_text: |-
   Alternatively, you can purchase a guest pass if you attend with an existing member.
 navigation_weight: 4
 slug: group-classes
-meta_content: As well as private yoga, Tessa also teaches public yoga and AntiGravity
-  yoga classes in various Virgin Active gyms around London.  Public class schedule
-  detailed below.
+meta_content: 'As well as private yoga in Crouch End, North London, Tessa also teaches
+  public yoga and AntiGravity yoga classes in various Virgin Active gyms around London. '
 layout: group_classes
 ---
 
