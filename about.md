@@ -19,9 +19,9 @@ secondary_text: "She has experience teaching in a variety of settings including 
 og_title: About — Tessa Ettinger
 navigation_weight: 1
 slug: about
-meta_content: Tessa completed her 200hr teacher training in Ashtanga Vinyasa and Rocket
-  yoga in June 2014 and has since undertaken further advanced trainings which equip
-  her to teach Ashtanga, Vinyasa and Rocket yoga, together with some restorative postures.
+meta_content: Private Yoga - Crouch End, North London, with Tessa Ettinger.  Yoga
+  for anybody.  Ashtanga, Vinyasa, Rocket, Yin, therapeutic - tailored to your unique
+  needs.
 layout: about
 ---
 
