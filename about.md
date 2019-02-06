@@ -13,17 +13,17 @@ secondary_text: Tessa has been practicing yoga for many years. She previously be
   needs.  She now practices yoga in a more fluid way, drawing from different styles, so 
   that it can be tailored to these fluctuations.  She enjoys using this approach to 
   assist others in finding or deepening their personal yoga practice and approach.
-  <br>
+  <br><br>
   Tessa completed her 200hr teacher training in Ashtanga Vinyasa and Rocket yoga in 
   June 2014 and has since undertaken further advanced trainings in Yin & Yang yoga, 
   Restorative yoga, practical anatomy & adjustments and yoga for addictions.  This has 
   equipped her to teach both dynamic and restorative classes.
- 
+  <br><br>
   She has experience teaching in a variety of settings including gyms, studios and 
   offices, as well as recovering addicts in prison. She teaches several public yoga 
   classes in various Virgin Active gyms around London, where she additionally teaches 
   AntiGravity Yoga, a form of aerial yoga and fitness.
- 
+  <br><br>
   She is also a qualified counsellor, which has given her the skills to be able to hold 
   and support any emotional material that may be present.  It is important to Tessa that 
   she creates a nurturing and therapeutic space where people feel safe to be themselves.
