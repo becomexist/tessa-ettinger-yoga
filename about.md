@@ -13,7 +13,7 @@ secondary_text: Tessa has been practicing yoga for many years. She previously be
   needs.  She now practices yoga in a more fluid way, drawing from different styles, so 
   that it can be tailored to these fluctuations.  She enjoys using this approach to 
   assist others in finding or deepening their personal yoga practice and approach.
- 
+  <br>
   Tessa completed her 200hr teacher training in Ashtanga Vinyasa and Rocket yoga in 
   June 2014 and has since undertaken further advanced trainings in Yin & Yang yoga, 
   Restorative yoga, practical anatomy & adjustments and yoga for addictions.  This has 
