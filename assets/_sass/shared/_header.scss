@@ -1,0 +1,92 @@
+header {
+	margin-bottom: 60px;
+	.logo {
+		max-width: 320px;
+		margin: auto;
+		display: block;
+		margin-top: 40px;
+		margin-bottom: 40px;
+		@include media($medium) {
+			width: 40vw;
+			margin-top: 20px;
+			margin-bottom: 20px;
+		}
+	}
+}
+
+h1.brand {
+	font-family: 'Amatic SC';
+	text-align: center;
+	font-size: 5rem;
+	color: black;
+  margin: auto;
+  max-width: 420px;
+  margin-top: 42px;
+  margin-bottom: 42px;
+  @include media($mobile) {
+    font-size: 3rem;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+}
+
+.yoga {
+	position: relative;
+	right: 5px;
+	.logo-line {
+		letter-spacing: -10px;
+		@include media($mobile) {
+			letter-spacing: -12px;
+		}
+	}
+}
+
+.main-menu {
+	padding-top: 21px;
+	text-align: justify;
+	width: 95%;
+	max-width: 960px;
+	margin: auto;
+	@include media($mobile) {
+    line-height: 1;
+  }
+	@include media($medium) {
+		text-align: center;
+	}
+	li {
+		display: inline-block;
+		text-transform: uppercase;
+		@include media($medium) {
+			margin-left: 2vw;
+			margin-right: 2vw;
+			margin-bottom: 10px;
+		}
+		&.active {
+			font-weight: 700;
+			// border-bottom: 2px solid;
+		}
+		a {
+			// font-family: Neucha;
+			font-size: 1.5rem;
+			color: #333333;
+			@include media($mobile) {
+		    font-size: 1.2rem;
+		  }
+		}
+		a img {
+			@include media($medium) {
+				position: relative;
+				bottom: 10px;
+			}
+			@include media($mobile) {
+				bottom: 7px;
+				width: 25px;
+			}
+		}
+	}
+	&:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+	}
+}

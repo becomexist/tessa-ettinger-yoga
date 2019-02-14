@@ -1,0 +1,49 @@
+#blog, .post-title {
+	text-align: center;
+}
+
+#posts-list {
+	@include row();
+	display: block;
+}
+
+.posts-list {
+	h1 {
+		@include media ($mobile) {
+			height: 20px;
+			opacity: 0;
+			margin-bottom: 0;
+		}
+	}
+}
+
+.single-post {
+	@include row();
+}
+
+.post-header, .post-content {
+	@include span-columns(8);
+	@include shift(2);
+	@include media ($mobile) {
+		@include span-columns(12);
+		@include shift(0);
+	}
+}
+
+h1.post-title {
+	font-family: Lora;
+	font-size: 2rem;
+	@include media ($mobile) {
+		margin-bottom: 40px;
+	}
+}
+
+.post-content blockquote {
+	font-style: italic;
+	font-size: 1.2rem;
+	text-align: left;
+}
+
+.post {
+	margin-bottom: 40px;
+}
