@@ -11,7 +11,7 @@ secondary_text: "Tessa has been practicing yoga for many years. She previously b
   \ She found over time that she needed to adjust this yoga practice to the natural
   ebb and flow of life and respond to her ever-changing physical and emotional needs.
   \ She now practices yoga in a more fluid way, drawing from different styles, so
-  that it can be tailored to these changing tides.  She enjoys using this approach
+  that it can be tailored to these changing tides - she enjoys using this approach
   to assist others in finding or deepening their personal yoga practice and approach.\n\nTessa
   completed her 200hr teacher training in Ashtanga Vinyasa and Rocket yoga in June
   2014 and has since undertaken further advanced trainings in Yin & Yang yoga, Restorative
