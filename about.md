@@ -1,8 +1,8 @@
 ---
 title: About
 main_heading: About Tessa
-intro_text: Tessa believes in making yoga accessible to anybody who is interested
-  - she is passionate about using yoga as a tool to help support physical and mental
+intro_text: Tessa believes in making yoga accessible to anybody who is interested.
+  She is passionate about using yoga as a tool to help support physical and mental
   wellbeing, and better understand our body, mind and soul.  She is enthusiastic about
   facilitating this within her students and assisting them in nurturing a compassionate
   body-mind connection.
