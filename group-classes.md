@@ -1,5 +1,6 @@
 ---
 title: Group Classes
+published: false
 intro_text: |-
   As well as private yoga, Tessa also teaches public yoga and AntiGravity yoga classes in various Virgin Active gyms around London.
 
